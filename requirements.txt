@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+mlflow
+streamlit
+matplotlib
+seaborn
+requests
