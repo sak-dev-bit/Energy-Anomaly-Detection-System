@@ -8,3 +8,4 @@ streamlit
 matplotlib
 seaborn
 requests
+plotly
